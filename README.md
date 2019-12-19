@@ -1,6 +1,6 @@
 # AI_Sict-FingersDetection
 
-## A mini application to detection fingers use Keras, Tensorflow, OpenCV and Python.
+## A little application to detection fingers use Keras, Tensorflow, OpenCV and Python.
 Member:  TuanTran(SinJunior)
 
 ### Guide Install
